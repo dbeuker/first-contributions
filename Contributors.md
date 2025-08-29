@@ -2327,7 +2327,6 @@ sh0uka
 - Juan Dela Cruz
 - [AlphaCode](https://github.com/alphacode-2325)
 - [Amer](https://github.com/iamAmer)
-- [dbeuker](https://github.com/dbeuker)
 - [Rachel Stern](https://github.com/RachelStern20)
 - [Mukeshwaran K](https://github.com/mukesh-m01)
 - [Dede Sangmortey](https://github.com/Ladydede) 
@@ -2338,6 +2337,7 @@ sh0uka
 - [Nikhil Garg](https://github.com/Nikhilgarg-123)
 - [Dhanraj Bidare](https://github.com/Dhanraj4102)
 - [JstFrMs](https://github.com/JstFrMs)
+- [dbeuker](https://github.com/dbeuker)
 - [Umutambyi Gad](https://github.com/umutambyi-gad)
 - [Choccy Milch](https://github.com/ChoccyMilch)
 - Akash Chitale
