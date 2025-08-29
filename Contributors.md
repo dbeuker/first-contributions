@@ -2336,8 +2336,8 @@ sh0uka
 - [RIVER]
 - [Nikhil Garg](https://github.com/Nikhilgarg-123)
 - [Dhanraj Bidare](https://github.com/Dhanraj4102)
-- [JstFrMs](https://github.com/JstFrMs)
 - [dbeuker](https://github.com/dbeuker)
+- [JstFrMs](https://github.com/JstFrMs)
 - [Umutambyi Gad](https://github.com/umutambyi-gad)
 - [Choccy Milch](https://github.com/ChoccyMilch)
 - Akash Chitale
